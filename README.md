@@ -37,13 +37,14 @@ Dimax Soluciones Integrales
 
 Aquí puedes encontrar uno de mis últimos proyectos:
 
-Calculadora
+### Calculadora
 
-Aplicación de una calculadora con un diseño creativo y colorido inspirado en Los Simpson
+Aplicación de una calculadora con un diseño creativo y colorido inspirado en Los Simpson.
 
-Tecnologías: React, JavaScript, Vite, HTML, CSS
-- 🔗 Repositorio: [GitHub]([[https://github.com/paula-gi/calculadora.git]))  
-- 🌐 Demo: [Ver demo]([https://tudemo.com](https://paula-gi.github.io/calculadora/))
+**Tecnologías:** React, JavaScript, Vite, HTML, CSS  
+
+- 🔗 Repositorio: [GitHub](https://github.com/paula-gi/calculadora.git)  
+- 🌐 Demo: [Ver demo](https://paula-gi.github.io/calculadora/)
 
 ## 📫 Contacto
 
