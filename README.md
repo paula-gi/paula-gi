@@ -1,10 +1,10 @@
 # 👋 Hola, soy Paula
 
-Soy desarrolladora web junior enfocada en Frontend (JavaScript, HTML, CSS, React). Siempre abierta a aprender nuevas tecnologias también en el mundo Backend y Full Stack.
+Soy desarrolladora web enfocada en Frontend (JavaScript, HTML, CSS, React). Siempre abierta a aprender nuevas tecnologias también en el mundo Backend y Full Stack.
 
 ## 🚀 Sobre mí
 
-- 💻 Estoy en búsqueda de primera oportunidad laboral
+- 💻 Estoy en búsqueda de mi primera oportunidad laboral
 - 📚 Actualmente aprendiendo nuevas tecnologías 
 - 🧠 Me gusta crear proyectos útiles y creativos
 
