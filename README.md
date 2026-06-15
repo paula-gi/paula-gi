@@ -1,6 +1,6 @@
 # 👋 Hola, soy Paula
 
-Soy desarrolladora web enfocada en Frontend (JavaScript, HTML, CSS, React). Siempre abierta a aprender nuevas tecnologias también en el mundo Backend y Full Stack.
+Soy desarrolladora web y desarrollo proyectos usando tecnologías Frontend (JavaScript, HTML, CSS, React) y Backend (Java, SpringBoot). Siempre abierta a aprender nuevas tecnologias y lenguajes.
 
 ## 🚀 Sobre mí
 
@@ -10,12 +10,28 @@ Soy desarrolladora web enfocada en Frontend (JavaScript, HTML, CSS, React). Siem
 
 ## 🛠 Tecnologías y herramientas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=FFD62E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 
 ## 💼 Experiencia profesional
 
