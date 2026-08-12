@@ -62,9 +62,9 @@ Aplicación full-stack que permite a los usuarios calcular, visualizar y realiza
 
 **Tecnologías:** 
 
-** Frontend:** React · Axios · Recharts · CSS
+ Frontend: React · Axios · Recharts · CSS
 
-** Backend:** Java · Spring Boot · Spring Data JPA · Maven · MySQL
+ Backend: Java · Spring Boot · Spring Data JPA · Maven · MySQL
 
 - 🔗 Repositorio: [GitHub](https://github.com/paula-gi/ZeroFootprint.git)  
 
