@@ -56,14 +56,16 @@ Dimax Soluciones Integrales
 
 Aquí puedes encontrar uno de mis últimos proyectos:
 
-### Calculadora
+### ZeroFootprint
 
-Aplicación de una calculadora con un diseño creativo y colorido inspirado en Los Simpson.
+Aplicación full-stack que permite a los usuarios calcular, visualizar y realizar un seguimiento de su huella de carbono a partir de sus actividades cotidianas.
 
-**Tecnologías:** React, JavaScript, Vite, HTML, CSS  
+**Tecnologías:** 
 
-- 🔗 Repositorio: [GitHub](https://github.com/paula-gi/calculadora.git)  
-- 🌐 Demo: [Ver demo](https://paula-gi.github.io/calculadora/)
+Frontend: React · Axios · Recharts · CSS
+Backend: Java · Spring Boot · Spring Data JPA · Maven · MySQL
+
+- 🔗 Repositorio: [GitHub](https://github.com/paula-gi/ZeroFootprint.git)  
 
 ## 📫 Contacto
 
